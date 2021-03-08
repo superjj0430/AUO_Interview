@@ -1,0 +1,4 @@
+SHEET_ID:流水號
+COL_XXXX:數值型資料
+CAT_XX:類別型資料
+Y:預測目標
